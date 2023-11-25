@@ -1,0 +1,173 @@
+/* BOX DIMENSIONS */
+/* div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+
+p{
+    width: 80%;
+} */
+
+/* LIMITING WIDTH */
+/* td.description {
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;} */
+
+/* LIMITING HEIGHT */
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;}
+    h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;}
+
+p{
+    max-height: 100px;
+    border: 1px solid red;
+} */
+
+/* OVERFLOW */
+/* p{
+    max-height: 50px;
+    border: 1px solid red;
+    overflow: scroll;
+}  */
+
+/* BORDER WIDTH */
+/* one by one */
+/* p{
+    border-top-width:1px;
+    border-right-width:2px;
+    border-bottom-width:3px;
+    border-left-width:4px;
+} */
+
+/* short hand */
+/* p{
+    border-style: solid;
+     border-width: 1px 2px 3px 4px;   clock wise
+} */
+
+/* BORDER STYLE */
+/* solid, dotted, dashed, double, groove, inset, outset, ridge*/
+/* p{
+    border-style: dashed ;
+} */
+
+/* BORDER STYLE */
+/* p{
+    border-style: dashed;
+    border-top-color: red;
+    border-bottom-color: palevioletred;
+    border-right-color: blueviolet;
+    border-left-color: brown;
+} */
+
+/* SHORT HAND BORDER */
+/* p{
+    border: 10px solid red;
+} */
+
+/* PADDING */
+/* p{
+    border: 2px solid red;
+    padding: 100px 20px 30px 200px;
+    padding-top: 20px;
+} */
+
+/* MARGIN */
+/* p{
+    border: 2px solid red;
+    margin: 2px 10px 30px 40px;
+}
+#p2{
+    margin-top: 200px;
+} */
+
+/* CENTERING CONTENT */
+/* P{
+    border: 10px solid skyblue;
+    width: 300px;
+    padding: 50px;
+}
+
+p.example {
+    margin-left: auto;
+    margin-right: auto;
+}  */
+
+/* CHANGE INLINE BLOCK */
+/* li{
+    display: inline; 
+    margin-right: 10px;
+}
+li.coming-soon {
+    display: none;} */
+
+/* HIDING BOXES */
+/* li {
+    display: inline; 
+    margin-right: 10px;}
+li.coming-soon {
+    visibility: hidden;}
+ */
+
+ /* BORDER IMAGES */
+ /* .one{
+    border: 10px  solid  transparent;
+    padding: 10px;
+    border-image: url(./images/Polka_dots.png) 30 round;
+ }
+ .two{
+    margin-top: 50px;
+    border: 10px solid transparent;
+    padding: 10PX;
+    border-image: url(./images/twister-polka-dots.webp) 50 stretch;
+ }
+ .three{
+    margin-top: 50px;
+    border: 10px solid transparent;
+    padding: 10px;
+    border-image: url(./images/depositphotos.jpg)10 repeat;
+ } */
+
+ /* BOX SHADOWS */
+ /* .one{
+    width: 200px;
+    box-shadow: 0 0 10px red;
+ } */
+
+ /* ROUNDED CORNERS */
+ /* p{
+    width: 200px;
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: red;
+    color: yellow;
+    border-radius: 20px;
+ } */
+
+ /* body{
+    background-color: black;
+ }
+ p{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+ } */
+
+ /* img{
+    width: 100px;
+    height: 100px;
+    border: 5px solid blue;
+    border-radius: 50%;
+ } */
+
