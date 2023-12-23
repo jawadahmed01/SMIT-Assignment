@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+   padding: 10px;
+}
+.col{
+    background-color: brown;
+    margin: 2px;
+}
